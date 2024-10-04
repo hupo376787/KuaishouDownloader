@@ -1,4 +1,4 @@
-# 最新版移至☞[](https://github.com/hupo376787/GinkgoDownloader)
+# 最新版移至☞  [](https://github.com/hupo376787/GinkgoDownloader)
 
 # KuaishouDownloader
 下载快手作者主页的视频以及图集
