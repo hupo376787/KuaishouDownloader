@@ -1,4 +1,4 @@
-# 最新版移至☞  [https://github.com/hupo376787/GinkgoDownloader](https://github.com/hupo376787/GinkgoDownloader)
+# 最新版移至☞  [银杏下载器(抖音/快手/微博/小红书/推特作者主页作品下载)](https://github.com/hupo376787/GinkgoDownloader)
 
 # KuaishouDownloader
 下载快手作者主页的视频以及图集
